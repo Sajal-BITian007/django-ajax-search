@@ -16,7 +16,7 @@ Installation Requirements
 - Python 2.6 or Python 2.7
 - `Django <http://www.djangoproject.com/>`_ >= 1.3
 - `jQuery <http://jquery.com/>`_ >= 1.4.4
-
+#you can use higher version of python of Django/JQuery
 To install::
     
     easy_install django-ajax-search
